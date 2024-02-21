@@ -1,0 +1,16 @@
+PRODUCTS: 
+title,
+  description,
+  price,
+  discountPercentage,
+  rating,
+  stock,
+  brand,
+  category,
+  thumbnail,
+  images,
+  colors,
+  sizes,
+  highlights,
+  discountPrice,
+  deleted
